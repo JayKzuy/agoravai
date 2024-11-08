@@ -4,7 +4,7 @@ footer{
     color: rgb(115, 141, 163);
     margin: 0;
     padding: 0;
-    height: 5vh;
+    height: 100vh;
     display: flex;
     align-items: flex-start; 
     justify-content: center;
@@ -36,7 +36,7 @@ background-color: rgb(80, 71, 129);
 color: rgb(13, 23, 31);
 position: fixed;
 bottom: 0%;
-width: 90%
+width: 20%
 }
 
 footer p{
