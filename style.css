@@ -12,6 +12,9 @@ footer{
 }
 
 
+.container {
+    margin-top: 10px; 
+}
 
 .meu-botao {
     padding: 10px 10px;
@@ -29,35 +32,35 @@ footer{
 
 footer {
 
-    background-color: rgb(80, 71, 129);
-    color: rgb(13, 23, 31);
-    position: fixed;
-    bottom: 0%;
-    width: 90%
-    }
-    
-    footer p{
-        text-align: center;
-     font-size: 0.9rem;
-     margin-top:0.7;
-    }
-    
-    .meu-botao {
-        padding: 10px 20px;
-        font-size: 16px;
-        color: rgb(12, 14, 43);
-        background-color: rgb(63, 63, 102);
-        border: none;
-        border-radius: 5px;
-        cursor: pointer;
-    }
-    
-    .meu-botao:hover {
-        background-color: rgb(73, 73, 119);
-    }
-    
-    footer p {
-    
+background-color: rgb(80, 71, 129);
+color: rgb(13, 23, 31);
+position: fixed;
+bottom: 0%;
+width: 90%
+}
+
+footer p{
+ text-align: fixed;
+ font-size: 0.9rem;
+ margin-top:0.7;
+}
+
+.meu-botao {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: rgb(12, 14, 43);
+    background-color: rgb(63, 63, 102);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.meu-botao:hover {
+    background-color: rgb(73, 73, 119);
+}
+
+footer p {
+
     text-align: center;
     font-size: 0.9rem;
     margin-top: 0.5;
