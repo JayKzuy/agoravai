@@ -34,13 +34,13 @@ footer {
 
 background-color: rgb(80, 71, 129);
 color: rgb(13, 23, 31);
-position: center;
+position: fixed;
 bottom: 0%;
 width: 90%
 }
 
 footer p{
- text-align: fixed;
+ text-align: center;
  font-size: 0.9rem;
  margin-top:0.7;
 }
