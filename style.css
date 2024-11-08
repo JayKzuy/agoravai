@@ -10,3 +10,21 @@ footer{
     justify-content: center;
     
 }
+
+.container {
+    margin-top: 10px; 
+}
+
+.meu-botao {
+    padding: 10px 10px;
+    font-size: 10px;
+    color: rgb(11, 21, 41);
+    background-color: rgb(113, 113, 161);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.meu-botao:hover {
+    background-color: rgb(16, 16, 54);
+}
